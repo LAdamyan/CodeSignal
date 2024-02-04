@@ -9,8 +9,5 @@
         <module name="CodeSignal" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="CodeSignal" target="19" />
-    </bytecodeTargetLevel>
   </component>
 </project>
